@@ -3,5 +3,7 @@ Nhằm minh họa trực quan cho nguyên lý hoạt động và khả năng sin
 Ba mô hình được triển khai bao gồm:
 
 •	Mạng đối kháng tạo sinh (Generative Adversarial Network – GAN)
+
 •	Bộ tự mã hóa biến phân (Variational Autoencoder – VAE)
+
 •	Mô hình khuếch tán (Diffusion Model)
